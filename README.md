@@ -99,19 +99,6 @@ Content-Type: application/json
 
 ---
 
-## ✅ License
 
-This project is open source and available under the MIT License.
 
-```
 
----
-
-If you want, I can also make a **more detailed README** with:
-
-- **Swagger/OpenAPI docs example**  
-- **Sample request/response for all routes**  
-- **Setup for Cloudinary/Nodemailer**  
-
-Do you want me to do that?
-```
